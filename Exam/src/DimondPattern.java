@@ -36,3 +36,4 @@ public class DimondPattern {
 		scanner.close();
 	}
 }
+//it is ok
